@@ -15,10 +15,7 @@
 
 ### Installation:
 
-1. Clone the repository:
-   git clone https://github.com/redianmarku/Instagram-Multi-Feature-Bot
-
-2. Install the required dependencies:
+. Install the required dependencies:
    `pip install -r requirements.txt`
 
 ### Usage:
@@ -52,6 +49,3 @@
 - Make sure to use this script responsibly and in compliance with Instagram's terms of service.
 - Be cautious when performing automated actions to avoid any potential account restrictions or bans.
 
-### License:
-
-This project is licensed under the MIT License. Feel free to contribute, open issues, and submit pull requests if you have any improvements or suggestions.
